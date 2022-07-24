@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fleche.png</file>
+        <file>log1.jpg</file>
+        <file>park3.jpg</file>
+        <file>park4.jpg</file>
+        <file>park5.jpg</file>
+        <file>park6.jpg</file>
+        <file>park7.png</file>
+        <file>bon.jpg</file>
+        <file>smart.jpg</file>
+        <file>okay.png</file>
+        <file>valid.png</file>
+        <file>fle.png</file>
+    </qresource>
+</RCC>
